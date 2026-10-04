@@ -1,0 +1,45 @@
+{
+  "project_name": "Municipal Sub-District Zone 4",
+  "pipes": [
+    {
+      "id": "P-101",
+      "from_node": "Pump_Station",
+      "to_node": "J-1",
+      "length_m": 450.0,
+      "design_flow_lps": 45.0,
+      "roughness_c": 130
+    },
+    {
+      "id": "P-102",
+      "from_node": "J-1",
+      "to_node": "J-2",
+      "length_m": 320.0,
+      "design_flow_lps": 30.0,
+      "roughness_c": 130
+    },
+    {
+      "id": "P-103",
+      "from_node": "J-2",
+      "to_node": "Tank_A",
+      "length_m": 600.0,
+      "design_flow_lps": 18.0,
+      "roughness_c": 130
+    },
+    {
+      "id": "P-104",
+      "from_node": "J-1",
+      "to_node": "J-3",
+      "length_m": 280.0,
+      "design_flow_lps": 15.0,
+      "roughness_c": 120
+    },
+    {
+      "id": "P-105",
+      "from_node": "J-3",
+      "to_node": "Commercial_Loop",
+      "length_m": 510.0,
+      "design_flow_lps": 12.5,
+      "roughness_c": 120
+    }
+  ]
+}

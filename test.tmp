@@ -1,0 +1,13 @@
+﻿# Mermail Solana Signal Trader Agent Skill
+
+Standardized agent skill submission for the Mermail Superteam Earn Bounty.
+
+## Project Structure
+- demo_agent.py
+- README.md
+- skills/mermail-solana-signal-trader/SKILL.md
+- skills/mermail-solana-signal-trader/agents/openai.yaml
+- skills/mermail-solana-signal-trader/references/tools.md
+
+## Quick Start
+python demo_agent.py
