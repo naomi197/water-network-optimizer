@@ -5,7 +5,7 @@
 
 Python toolkit for sizing pressurized water pipes and calculating frictional head loss with the Hazen-Williams equation.
 
-Developer: [alirezafazeli@live.com](mailto:alirezafazeli@live.com)
+Developer: Alireza Sani · [alirezafazeli@live.com](mailto:alirezafazeli@live.com)
 
 ## Features
 
@@ -79,4 +79,4 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
-Alireza Fazeli — [naomi197](https://github.com/naomi197)
+Alireza Sani — [naomi197](https://github.com/naomi197)
